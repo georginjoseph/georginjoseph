@@ -1,4 +1,4 @@
-- Georgin Joseph
+Georgin Joseph
 QA Lead / Manager	/ Business Analyst
 9972 302 302, 8129 502 302
 georginjoseph@gmail.com
@@ -6,7 +6,7 @@ georginjoseph@gmail.com
 
 
 Profile Summary
-	17+ years’ experience in QA and testing and Business Analyst Role
+	17+ years’ experience in QA, testing, Business Analyst and Project Management Role
 	Experience in Education, Telecom, Insurance and Finance domains
 	In Various areas and technologies like Mobile applications, Web based applications, OBRM tool, QuickBooks and Hybrid Mobile apps
 	Previously worked with Optimuz, Intuit, Mphasis HP, IBM and Hexaware, Mobily
@@ -27,7 +27,7 @@ Technology Overview
 o	MPP, Rational Project Management RPM, JIRA
 
 	FUNCTIONAL AUTOMATION
-o	UFT, Selenium, pytest
+o	UFT, Selenium, pytest, Robot Framework and Hybrid Frawork
 
 	STRESS AND VOLUME AUTOMATION
 o	JMETER
@@ -42,7 +42,7 @@ o	OBRM Tool (Batch and real time billing tool used for telecom billing).
 o	Python, Pytest
 
 	Key Customer Involvement
-Worked as a SPOC in QA for Optimuz Technologies. Client Domain Key Projects Telstra, Australia OBRM -Telecom (OSS/BSS) Technical Lead in Testing - Transformation - BRM upgrade 6.5 - 7.4 Technical Lead in Testing - Pipeline Rating system implementation and NBN implementation in agile method Test Management - Keanan billing implementation project. Test Analyst in Apollo diameter implementation Test Analyst - Multiple enhancement works Mobily, KSA OBRM and Siebel CRM - Telecom. Technical Lead in Testing Transformation - BRM upgrade 7.0 - 7.4. Worked in Siebel CRM for provisioning module testing as well. Vodafone, ANZ OBRM - Telecom Worked in multiple enhancement projects and involved in value added works Orange (France Telecom), UK OBRM and Keane system – Telecom. Worked in billing system transformation project from Kean billing to OBRM. Managed the crucial integration QA E2E test management team in BVOIP and GVPN network system for switches transformation for AT&T, US Telecom (OSS). Deutsch Leasing, Germany Banking and Insurance Worked in the testing of migration of mainframe system to unified java based leasing and contract management system
+Worked as Director Operations – OAR Agri Tech Pvt Ltd., Worked as a SPOC in QA for Optimuz Technologies. Client Domain Key Projects Telstra, Australia OBRM -Telecom (OSS/BSS) Technical Lead in Testing - Transformation - BRM upgrade 6.5 - 7.4 Technical Lead in Testing - Pipeline Rating system implementation and NBN implementation in agile method Test Management - Keanan billing implementation project. Test Analyst in Apollo diameter implementation Test Analyst - Multiple enhancement works Mobily, KSA OBRM and Siebel CRM - Telecom. Technical Lead in Testing Transformation - BRM upgrade 7.0 - 7.4. Worked in Siebel CRM for provisioning module testing as well. Vodafone, ANZ OBRM - Telecom Worked in multiple enhancement projects and involved in value added works Orange (France Telecom), UK OBRM and Keane system – Telecom. Worked in billing system transformation project from Kean billing to OBRM. Managed the crucial integration QA E2E test management team in BVOIP and GVPN network system for switches transformation for AT&T, US Telecom (OSS). Deutsch Leasing, Germany Banking and Insurance Worked in the testing of migration of mainframe system to unified java based leasing and contract management system
 						
 	Education
 MCA Graduate from Madras University secured with 70% marks.
@@ -56,6 +56,13 @@ February 2004 - January 2005 - Hexaware Technologies through Jeevan Technologies
 
 
 Projects 
+Project: OAR Agri Tech, Mobile App and Website for a start-up company
+Client : OAR Agri-Tech Pvt. Ltd.,
+Description
+Working as director operations in OAR Agri-Tech Pvt. Ltd., an agri tech start-up company. We are committed to revolutionize farming and gardening sector by giving a technology driven platform that enables people to get better farming products and gardening solutions.  I have experience in handling entire team, IT, marketing, sales, and operations. Projects executed on Agile – scrum methodology.
+•	Solution and strategy preparation for the new projects.
+•	Client meetings and communicate to team.
+Interacting with Dev team and discuss and depict the right functionality.
 Project: SchoolSpeak, TADS, GoBeyond
 Client : SchoolSpeak (Optimuz)
 Description
